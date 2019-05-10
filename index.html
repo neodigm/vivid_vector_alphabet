@@ -15,20 +15,12 @@
 				max-width: 96px;
 			}
 		</style>
-		<main role="main">
+		<main id="js-duck-meat" role="main">
 			<section class="alpha-grd">
-				<img src="vvj.svg">
-				<img src="vva.svg">
-				<img src="vvv.svg">
-				<img src="vva.svg">
-				<img src="vvs.svg">
-				<img src="vvc.svg">
-				<img src="vvr.svg">
-				<img src="vvi.svg">
-				<img src="vvp.svg">
-				<img src="vvt.svg">
+				<img :src="'vv' + oC + '.svg'"
+				v-for = "(oC, ind ) in aPara">
 			</section>
-		<br><br><br>
+<!--
 			<section class="alpha-grd">
 				<img src="vva.svg">
 				<img src="vvb.svg">
@@ -52,12 +44,10 @@
 				<img src="vvt.svg">
 				<img src="vvu.svg">
 				<img src="vvv.svg">
-<!--
 				<img src="vvw.svg">
 				<img src="vvx.svg">
 				<img src="vvy.svg">
 				<img src="vvz.svg">
-
 				<img src="vv0.svg">
 				<img src="vv1.svg">
 				<img src="vv2.svg">
@@ -71,5 +61,30 @@
 -->
 			</section>
 		</main>
+		<script src="vue.min.js"></script>
+		<script>
+		let vvV = new Vue( {
+			el: "#js-duck-meat",
+  data: {
+  aPara: ["a","b","c"],
+  Phrase: "",
+  },
+  watch: {
+      RESTCount : function(){  //  All JSON have been received
+          const NUM_COMPLETE = 4, NUM_NOT_COMPLETE_ONE = 1, NUM_NOT_COMPLETE_TWO = 2;
+          if( this.RESTCount === NUM_NOT_COMPLETE_ONE ) snck.q("Loading ...");
+          if( this.RESTCount === NUM_NOT_COMPLETE_TWO ){
+              if( this.one2ten() >= 6 ) snck.q("Please Wait ...");
+          }
+          if( this.RESTCount === NUM_COMPLETE ) this.RESTPost();  //  Init Sort and Gen Rank
+      }
+  },
+  methods: {
+	  tick: function(){
+		  this.aPara.shift( this.aPara.pop() );
+	  }
+  }
+		} );
+		</script>
 	</body>
 </html>
