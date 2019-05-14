@@ -611,7 +611,7 @@
 	</g>
 </g>
 <g id="space">
-	<rect fill="#FFFFFF" width="256" height="256"/>
+	<rect fill="none" stroke="#938970" stroke-width="0.75" stroke-miterlimit="10" width="256" height="256"/>
 	<g>
 	</g>
 	<g>

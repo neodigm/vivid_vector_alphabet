@@ -9,16 +9,17 @@
 		<style>
 			.alpha-grd {
 				display: grid;
-				grid-template-columns: repeat( auto-fill, minmax(76px, 96px));
+				grid-template-columns: repeat( auto-fill, minmax(26px, 56px));
+				background-color: #555;
+				padding: 24px;
 			}
 			.alpha-grd img {
-				max-width: 96px;
+				max-width: 56px;
 			}
 		</style>
-		<main id="js-duck-meat" role="main">
+		<main role="main">
 			<section class="alpha-grd">
-				<img :src="'vv' + oC + '.svg'"
-				v-for = "(oC, ind ) in aPara">
+
 			</section>
 <!--
 			<section class="alpha-grd">
@@ -61,30 +62,45 @@
 -->
 			</section>
 		</main>
-		<script src="vue.min.js"></script>
 		<script>
-		let vvV = new Vue( {
-			el: "#js-duck-meat",
-  data: {
-  aPara: ["a","b","c"],
-  Phrase: "",
-  },
-  watch: {
-      RESTCount : function(){  //  All JSON have been received
-          const NUM_COMPLETE = 4, NUM_NOT_COMPLETE_ONE = 1, NUM_NOT_COMPLETE_TWO = 2;
-          if( this.RESTCount === NUM_NOT_COMPLETE_ONE ) snck.q("Loading ...");
-          if( this.RESTCount === NUM_NOT_COMPLETE_TWO ){
-              if( this.one2ten() >= 6 ) snck.q("Please Wait ...");
-          }
-          if( this.RESTCount === NUM_COMPLETE ) this.RESTPost();  //  Init Sort and Gen Rank
-      }
-  },
-  methods: {
-	  tick: function(){
-		  this.aPara.shift( this.aPara.pop() );
-	  }
-  }
-		} );
+"use strict";
+
+let fX =  ( ( _d, _g, sQ ) => {
+	let eSect = _d.querySelector( sQ );
+	let aMsg = [], eImg = {}, nCnt = 0;
+	return {
+		init: ( sMsg ) => {
+			aMsg = Array.from( sMsg.toUpperCase() );
+			aMsg.forEach( ( _i ) => {
+				eImg = _d.createElement( "img" );
+				eImg.src = "vvspace.svg";
+				eSect.appendChild( eImg );
+			});
+			setInterval( fX.tick, 200);  //  yikes
+		},
+		tick: () =>{
+			nCnt++;
+			[].slice.call( _d.querySelectorAll( sQ + " img" ) ).filter( ( _e, _i ) => {
+				let sC = aMsg[ _i ];
+				switch( sC ){
+					case " ":
+						sC = "space";
+					break;
+					case ".":
+						sC = "space";
+					break;
+					case ",":
+						sC = "space";
+					break;
+				}
+				_e.src = "vv" + sC + ".svg";
+			});
+			aMsg.push( aMsg.shift() );
+		}
+	};
+})( document, window, ".alpha-grd");
+
+fX.init("This is a coding exercise designed to demonstrate and prove proficiency in the Vue.js reactive framework. The technologies include advanced CSS, semantic markup, browser native APIs, accessible content and an overall mastery of browser capabilities.");
 		</script>
 	</body>
 </html>
