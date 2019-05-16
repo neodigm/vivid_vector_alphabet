@@ -1,0 +1,28 @@
+{
+  "name": "vivid_vector_alphabet",
+  "version": "1.0.0",
+  "description": "very very cool type",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neodigm/vivid_vector_alphabet.git"
+  },
+  "keywords": [
+    "type",
+    "vector",
+    "font"
+  ],
+  "author": "Scott C. Krause",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neodigm/vivid_vector_alphabet/issues"
+  },
+  "homepage": "https://github.com/neodigm/vivid_vector_alphabet#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "svgo": "^1.2.2"
+  }
+}

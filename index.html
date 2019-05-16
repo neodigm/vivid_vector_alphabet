@@ -9,59 +9,81 @@
 		<style>
 			body { margin: 0; }
 			.alpha-grd {
+				cursor: pointer;
 				display: grid;
 				grid-template-columns: repeat( auto-fill, minmax(26px, 64px));
-				background-color: #993300;
+				background-color: #790300;
 				padding: 24px;
 			}
-			.alpha-grd img {
-				max-width: 64px;
-			}
+			.alpha-grd img { max-width: 64px; }
+			.alpha-grd__hide { display: none; }
 		</style>
 		<main role="main">
 			<section class="alpha-grd">
 			</section>
 		</main>
-		<script>
+		<footer>
+			<a class="js-truth-bang">
+				<img src="ttps://neodigm.github.io/vivid_vector_alphabet/truth_bank.svg" alt="Vivid Truth Bang">
+			</a>
+		</footer>
+
+<script>
 "use strict";
 
-let fX =  ( ( _d, _g, sQ ) => {
+let fViv =  ( ( _d, _g, sQ ) => {
 	let eSect = _d.querySelector( sQ );
-	let aMsg = [], eImg = {}, nCnt = 0;
+	let aMsg = [], eImg = {}, bRun = true;
 	const BASE_URL = "https://neodigm.github.io/vivid_vector_alphabet/";
 	return {
-		init: ( sMsg ) => {
-			aMsg = Array.from( sMsg.toUpperCase() );
-			aMsg.forEach( ( _i ) => {
-				eImg = _d.createElement( "img" );
-				eImg.src = "vvspace.svg";
-				eSect.appendChild( eImg );
-			});
-			setInterval( fX.tick, 200);  //  yikes
+		init: ( sMsg ) => { // your
+			aMsg = Array.from( sMsg.toUpperCase() ); // telephone
+			for( let _i = 0; _i <= parseInt( aMsg.length / 2 ); _i++ ){ // been
+				eImg = _d.createElement( "img" ); // ringin
+				eImg.src = "vvspace.svg"; // while you're
+				eSect.appendChild( eImg ); // dancin
+			} // in the
+			setInterval( fViv.tick, 200);  // rain
 		},
 		tick: () =>{
-			nCnt++;
-			[].slice.call( _d.querySelectorAll( sQ + " img" ) ).filter( ( _e, _i ) => {
-				let sC = aMsg[ _i ];
-				switch( sC ){
-					case " ":
-						sC = "space";
-					break;
-					case ".":
-						sC = "period";
-					break;
-					case ",":
-						sC = "comma";
-					break;
-				}
-				_e.src = BASE_URL + "vv" + sC.toLowerCase() + ".svg";
-			});
-			aMsg.push( aMsg.shift() );
+			if( bRun ){
+				[].slice.call( _d.querySelectorAll( sQ + " img" ) ).filter( ( _e, _i ) => {
+					let sC = aMsg[ _i ];
+					switch( sC ){
+						case " ":
+							sC = "space";
+						break;
+						case ".":
+							sC = "period";
+						break;
+						case ",":
+							sC = "comma";
+						break;
+					}
+					_e.src = BASE_URL + "vv" + sC.toLowerCase() + ".svg";
+				});
+				aMsg.push( aMsg.shift() );				
+			}
+		},
+		stopVivid: () =>{
+			bRun = false;
+		},
+		startVivid: () =>{
+			bRun = true;
 		}
 	};
 })( document, window, ".alpha-grd");
 
-fX.init("I produce interactive apps, websites, and persuasive video. I sculpt an articulate and indelible branded dialog. That brand is then made vivid and seamlessly integrated into every facet of the digital identity. The Story is told in a sublime blend of dynamic content and immersing imagery. With a passion for assimilating new technology and innovative problem solving, I approach projects with enthusiasm and focus. I listen. I interpret abstract business processes into actionable technical requirements. I excel at translating requirements into concise and well constructed applications.");
+document.querySelector( ".alpha-grd" ).addEventListener("click", ( ev ) => {
+	fViv.stopVivid();
+	ev.currentTarget.classList.add("alpha-grd__hide");
+});
+document.querySelector( ".js-truth-bang" ).addEventListener("click", ( ev ) => {
+	fViv.startVivid();
+	document.querySelector( ".alpha-grd" ).classList.remove("alpha-grd__hide");
+});
+
+fViv.init("I produce interactive apps, websites, and persuasive video. I sculpt an articulate and indelible branded dialog. That brand is then made vivid and seamlessly integrated into every facet of the digital identity. The Story is told in a sublime blend of dynamic content and immersing imagery. With a passion for assimilating new technology and innovative problem solving, I approach projects with enthusiasm and focus. I listen. I interpret abstract business processes into actionable technical requirements. I excel at translating requirements into concise and well constructed applications. I create high fidelity prototypes allowing the user to interact with the app before it is developed. I can quickly test new designs and identify small flaws before they become big issues.");
 		</script>
 	</body>
 </html>
