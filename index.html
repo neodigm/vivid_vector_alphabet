@@ -7,6 +7,7 @@
 	</head>
 	<body>
 		<style>
+			body { margin: 0; }
 			.alpha-grd {
 				display: grid;
 				grid-template-columns: repeat( auto-fill, minmax(26px, 64px));
@@ -19,47 +20,6 @@
 		</style>
 		<main role="main">
 			<section class="alpha-grd">
-
-			</section>
-<!--
-			<section class="alpha-grd">
-				<img src="vva.svg">
-				<img src="vvb.svg">
-				<img src="vvc.svg">
-				<img src="vvd.svg">
-				<img src="vve.svg">
-				<img src="vvf.svg">
-				<img src="vvg.svg">
-				<img src="vvh.svg">
-				<img src="vvi.svg">
-				<img src="vvj.svg">
-				<img src="vvk.svg">
-				<img src="vvl.svg">
-				<img src="vvm.svg">
-				<img src="vvn.svg">
-				<img src="vvo.svg">
-				<img src="vvp.svg">
-				<img src="vvq.svg">
-				<img src="vvr.svg">
-				<img src="vvs.svg">
-				<img src="vvt.svg">
-				<img src="vvu.svg">
-				<img src="vvv.svg">
-				<img src="vvw.svg">
-				<img src="vvx.svg">
-				<img src="vvy.svg">
-				<img src="vvz.svg">
-				<img src="vv0.svg">
-				<img src="vv1.svg">
-				<img src="vv2.svg">
-				<img src="vv3.svg">
-				<img src="vv4.svg">
-				<img src="vv5.svg">
-				<img src="vv6.svg">
-				<img src="vv7.svg">
-				<img src="vv8.svg">
-				<img src="vv9.svg">
--->
 			</section>
 		</main>
 		<script>
@@ -68,6 +28,7 @@
 let fX =  ( ( _d, _g, sQ ) => {
 	let eSect = _d.querySelector( sQ );
 	let aMsg = [], eImg = {}, nCnt = 0;
+	const BASE_URL = "https://neodigm.github.io/vivid_vector_alphabet/";
 	return {
 		init: ( sMsg ) => {
 			aMsg = Array.from( sMsg.toUpperCase() );
@@ -93,7 +54,7 @@ let fX =  ( ( _d, _g, sQ ) => {
 						sC = "comma";
 					break;
 				}
-				_e.src = "vv" + sC.toLowerCase() + ".svg";
+				_e.src = BASE_URL + "vv" + sC.toLowerCase() + ".svg";
 			});
 			aMsg.push( aMsg.shift() );
 		}
