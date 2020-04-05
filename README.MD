@@ -30,4 +30,5 @@ OMG, you have no idea. If you think this is cool you should see the [Amazing Jav
 ![](https://neodigm.github.io/vivid_vector_alphabet/vvz.svg)
 
 Pin it on Code Pen [Here](https://codepen.io/neodigm24)
+#
 Read the LinkedIn post [Here](https://www.linkedin.com/posts/neodigm24_vivid-vector-alphabet-activity-6645509689637507072-KTYV)
