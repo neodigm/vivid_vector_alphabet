@@ -32,3 +32,13 @@ OMG, you have no idea. If you think this is cool you should see the [Amazing Jav
 Pin it on Code Pen [Here](https://codepen.io/neodigm24)
 #
 Read the LinkedIn post [Here](https://www.linkedin.com/posts/neodigm24_vivid-vector-alphabet-activity-6645509689637507072-KTYV)
+
+[Portfolio](https://www.theScottKrause.com) |
+[Github](https://github.com/neodigm) |
+[LinkedIn](https://www.linkedin.com/in/neodigm24/) |
+[Salesforce](https://trailblazer.me/id/skrause) |
+[Code Pen](https://codepen.io/neodigm24) |
+[Machvive](https://machvive.com/) |
+[Arcanus 55](https://www.arcanus55.com/) |
+[Repl](https://repl.it/@neodigm) |
+[Twitter](https://twitter.com/neodigm24)
