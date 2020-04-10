@@ -1,4 +1,4 @@
-Cool Beans with Awesome Sauce.
+[![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 
 OMG, you have no idea. If you think this is cool you should see the [Amazing JavaScript](https://neodigm.github.io/vivid_vector_alphabet/) . Precisely.
 
