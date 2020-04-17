@@ -34,6 +34,7 @@ Pin it on Code Pen [Here](https://codepen.io/neodigm24)
 Read the LinkedIn post [Here](https://www.linkedin.com/posts/neodigm24_vivid-vector-alphabet-activity-6645509689637507072-KTYV)
 
 [Portfolio](https://www.theScottKrause.com) |
+[Blog](https://www.theScottKrause.com/WebAssembly) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
 [Salesforce](https://trailblazer.me/id/skrause) |
