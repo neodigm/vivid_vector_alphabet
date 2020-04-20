@@ -1,3 +1,4 @@
 *.svg linguist-detectable=false
 *.html linguist-detectable=false
 *.js linguist-detectable=true
+*.ts linguist-detectable=true
