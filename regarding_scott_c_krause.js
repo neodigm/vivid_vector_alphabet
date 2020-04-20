@@ -14,6 +14,7 @@
       "name": "Scott Krause",
       "url": "https://www.theScottKrause.com",
 	    "sameAs" : [ "https://github.com/neodigm",
+	    "https://www.theScottKrause.com/neodigm-wasm-golang",
 	    "https://www.linkedin.com/in/neodigm24/",
 	    "https://trailblazer.me/id/skrause",
 	    "https://codepen.io/neodigm24",
