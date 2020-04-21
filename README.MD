@@ -31,7 +31,7 @@ OMG, you have no idea. If you think this is cool you should see the [Amazing Jav
 
 Pin it on Code Pen [Here](https://codepen.io/neodigm24)
 #
-Read the LinkedIn post [Here](https://www.linkedin.com/posts/neodigm24_vivid-vector-alphabet-activity-6645509689637507072-KTYV)
+Read the blog post [Here](https://www.theScottKrause.com/neodigm-wasm-golang)
 
 [Portfolio](https://www.theScottKrause.com) |
 [Blog](https://www.theScottKrause.com/neodigm-wasm-golang) |
