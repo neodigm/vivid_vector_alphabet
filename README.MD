@@ -35,7 +35,7 @@ Read the blog post [Here](https://www.theScottKrause.com/neodigm-wasm-golang)
 #
 [Portfolio](https://www.theScottKrause.com) |
 [Blog](https://www.theScottKrause.com/neodigm-wasm-golang)
-[NPM 🗿](https://www.npmjs.com/~neodigm)
+[NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
 [Salesforce](https://trailblazer.me/id/skrause) |
