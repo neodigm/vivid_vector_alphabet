@@ -32,7 +32,7 @@ OMG, you have no idea. If you think this is cool you should see the [Amazing Jav
 Pin it on Code Pen [Here](https://codepen.io/neodigm24)
 #
 Read the blog post [Here](https://www.theScottKrause.com/neodigm-wasm-golang)
-
+#
 [Portfolio](https://www.theScottKrause.com) |
 [Blog](https://www.theScottKrause.com/neodigm-wasm-golang) |
 [Github](https://github.com/neodigm) |
