@@ -33,8 +33,7 @@ Pin it on Code Pen [Here](https://codepen.io/neodigm24)
 #
 Read the blog post [Here](https://www.theScottKrause.com/neodigm-wasm-golang)
 #
-[Portfolio](https://www.theScottKrause.com) |
-[Blog](https://www.theScottKrause.com/neodigm-wasm-golang)
+[Portfolio Blog](https://www.theScottKrause.com) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
@@ -43,4 +42,5 @@ Read the blog post [Here](https://www.theScottKrause.com/neodigm-wasm-golang)
 [Machvive](https://machvive.com/) |
 [Arcanus 55](https://www.arcanus55.com/) |
 [Repl](https://repl.it/@neodigm) |
-[Twitter](https://twitter.com/neodigm24)
+[Twitter](https://twitter.com/neodigm24) |
+[Keybase](https://keybase.io/neodigm)
