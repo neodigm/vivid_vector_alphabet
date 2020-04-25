@@ -35,7 +35,6 @@ Pin it on Code Pen [Here](https://codepen.io/neodigm24)
 #
 Read the blog post [Here](https://www.theScottKrause.com/neodigm-wasm-golang)
 #
----
 ![](https://repository-images.githubusercontent.com/178555357/2b6ad880-7aa0-11ea-8dde-63e70187e3e9)
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
