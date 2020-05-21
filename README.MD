@@ -40,6 +40,7 @@ Read the blog post [Here](https://www.theScottKrause.com/)
 [Portfolio Blog](https://www.theScottKrause.com) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
+[Gists](https://gist.github.com/neodigm?direction=asc&sort=created) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
 [Salesforce](https://trailblazer.me/id/skrause) |
 [Code Pen](https://codepen.io/neodigm24) |
