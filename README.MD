@@ -49,6 +49,6 @@ Read the blog post [Here](https://www.theScottKrause.com/)
 [Repl](https://repl.it/@neodigm) |
 [Twitter](https://twitter.com/neodigm24) |
 [Keybase](https://keybase.io/neodigm) |
-[docker](https://hub.docker.com/u/neodigm) |
+[Docker](https://hub.docker.com/u/neodigm) |
 [W3C](https://www.w3.org/users/123844)
 #
