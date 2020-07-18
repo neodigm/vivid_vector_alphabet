@@ -30,7 +30,7 @@ OMG, you have no idea ⭐. If you think this is cool you should see the [Amazing
 ![](https://neodigm.github.io/vivid_vector_alphabet/vvx.svg)
 ![](https://neodigm.github.io/vivid_vector_alphabet/vvy.svg)
 ![](https://neodigm.github.io/vivid_vector_alphabet/vvz.svg)
-
+---
 Pin it on Code Pen [Here](https://codepen.io/neodigm24)
 #
 Read the blog post [Here](https://www.theScottKrause.com/)
