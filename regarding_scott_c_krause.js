@@ -8,7 +8,7 @@
       "addressRegion": "IL",
       "postalCode": "60031"
     },
-    "email": "neo5ive@gmail.com",
+    "email": "neodigm.ux@gmail.com",
     "image": "https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/24.jpg",
     "jobTitle": "Sr. UX Front-end Engineer",
     "name": "Scott Krause",
