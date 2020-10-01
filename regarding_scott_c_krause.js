@@ -15,7 +15,7 @@
     "url": "https://www.theScottKrause.com",
     "sameAs" : [ "https://github.com/neodigm",
 "https://www.theScottKrause.com/",
-"https://thescottkrause.com/Aardvark_Scott_C_Krause_2020.pdf",
+"https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf",
 "https://thescottkrause.com/d3_datavis_skills.html",
 "https://gist.github.com/neodigm",
 "https://www.npmjs.com/~neodigm",
