@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Scott C Krause
+N;CHARSET=UTF-8:Krause;Scott;C;;
+NICKNAME;CHARSET=UTF-8:neodigm
+UID;CHARSET=UTF-8:5
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:neodigm.ux@gmail.com
+TEL;TYPE=WORK,VOICE:5555555555
+ADR;CHARSET=UTF-8;TYPE=HOME:;;;Gurnee;IL;60031;USA
+TITLE;CHARSET=UTF-8:Lead Product Designer
+ROLE;CHARSET=UTF-8:Product Designer | Interactive Storyteller
+ORG;CHARSET=UTF-8:Independent
+URL;type=WORK;CHARSET=UTF-8:https://www.thescottkrause.com/
+NOTE;CHARSET=UTF-8:🚀 Inspired Problem Solver 🏖️Visual Storyteller
+REV:2020-05-31T20:19:01.849Z
+END:VCARD
