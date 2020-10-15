@@ -2,7 +2,7 @@
 ---
 ![](https://repository-images.githubusercontent.com/182188356/5f934800-63bc-11e9-9ce7-a9d8c303917e)
 ---
-OMG! ⭐ If you think this is cool you should see the [Microinteraction JavaScript](https://neodigm.github.io/vivid_vector_alphabet/) . Precisely 🚀
+OMG! ⭐ If you think this is cool you should see the [Microinteraction JavaScript](https://neodigm.github.io/vivid_vector_alphabet/) . Precisely 🍰
 
 ![](https://neodigm.github.io/vivid_vector_alphabet/vva.svg)
 ![](https://neodigm.github.io/vivid_vector_alphabet/vvb.svg)
