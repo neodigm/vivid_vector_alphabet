@@ -2,7 +2,7 @@
 let fViv =  ( ( _d, _g, sQ ) => {
 	let eSect = _d.querySelector( sQ );
 	let aMsg = [], eImg = {}, bRun = true;
-	const BASE_URL = "https://neodigm.github.io/vivid_vector_alphabet/";
+	const BASE_URL = "https://neodigm.github.io/vivid_vector_alphabet/wasm/";
 	return {
 		init: ( sMsg ) => { // your
 			aMsg = Array.from( sMsg.toUpperCase() ); // telephone
