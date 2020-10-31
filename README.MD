@@ -34,7 +34,7 @@ OMG! ⭐ If you think this is cool you should see the [Microinteraction JavaScri
 ---
 Pin it on Code Pen [Here](https://codepen.io/neodigm24)
 ---
-Read the blog post [Here](https://www.theScottKrause.com/)
+Read the Blog Post [Here](https://www.theScottKrause.com/)
 ---
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
