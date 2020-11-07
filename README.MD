@@ -6,7 +6,6 @@
   </a>
 </p>
 ---
-OMG! ⭐ If you think this is cool you should experience the [Microinteraction JavaScript](https://neodigm.github.io/vivid_vector_alphabet/) .
 
 ![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg)
 ![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg)
