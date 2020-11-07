@@ -10,7 +10,7 @@
     },
     "email": "neodigm.ux@gmail.com",
     "image": "https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/24.jpg",
-    "jobTitle": "Sr. UX Front-end Engineer",
+    "jobTitle": "Product UX Front-end Engineer",
     "name": "Scott Krause",
     "url": "https://www.theScottKrause.com",
     "sameAs" : [ "https://github.com/neodigm",
