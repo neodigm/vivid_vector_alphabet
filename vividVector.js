@@ -1,4 +1,4 @@
-"use strict"; // Vivid Interactive Type Component
+"use strict"; // Vivid Vector Interactive Type Component
 let fViv =  ( ( _d, _g, sQ ) => {
 	let eSect = _d.querySelector( sQ );
 	let aMsg = [], eImg = {}, bRun = true;
