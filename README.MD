@@ -34,6 +34,64 @@
 ![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg)
 ![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg)
 
+```javascript
+"use strict"; // Vivid Vector Interactive Type Component
+let fViv =  ( ( _d, _g, sQ ) => {
+	let eSect = _d.querySelector( sQ );
+	let aMsg = [], eImg = {}, bRun = true;
+	const BASE_URL = "https://neodigm.github.io/vivid_vector_alphabet/wasm/";
+	return {
+		init: ( sMsg ) => { // your
+			aMsg = Array.from( sMsg.toUpperCase() ); // telephone
+			for( let _i = 0; _i <= parseInt( aMsg.length / 2 ); _i++ ){ // been
+				eImg = _d.createElement( "img" ); // ringin
+				eImg.src = "vvspace.svg"; // while you're
+				eSect.appendChild( eImg ); // dancin
+			} // in the
+			setInterval( fViv.tick, 200);  // rain
+		},
+		tick: () =>{
+			if( bRun ){
+				[].slice.call( _d.querySelectorAll( sQ + " img" ) ).filter( ( _e, _i ) => {
+					let sC = aMsg[ _i ];
+					switch( sC ){
+						case " ":
+							sC = "space";
+						break;
+						case ".":
+							sC = "period";
+						break;
+						case ",":
+							sC = "comma";
+						break;
+					}
+					_e.src = BASE_URL + "vv" + sC.toLowerCase() + ".svg";
+				});
+				aMsg.push( aMsg.shift() );				
+			}
+		},
+		stopVivid: () =>{
+			bRun = false;
+		},
+		startVivid: () =>{
+			bRun = true;
+		}
+	};
+})( document, window, ".alpha-grd");
+
+document.querySelector( ".alpha-grd" ).addEventListener("click", ( ev ) => {
+	fViv.stopVivid();
+	ev.currentTarget.classList.add("alpha-grd__hide");
+});
+document.querySelector( ".js-truth-bang" ).addEventListener("click", ( ev ) => {
+	fViv.startVivid();
+	document.querySelector( ".alpha-grd" ).classList.remove("alpha-grd__hide");
+});
+
+fViv.init("I produce interactive apps, websites, and persuasive video.");
+console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "background: #000; color: #f4dc5e; font-size: 28px");
+```
+
 ---
 Pin it on Code Pen [Here](https://codepen.io/neodigm24)
 ---
