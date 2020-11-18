@@ -109,7 +109,7 @@ Read the Blog Post [Here](https://www.theScottKrause.com/)
 [Machvive](https://machvive.com/) |
 [Arcanus 55](https://www.arcanus55.com/?trusted55=A55PV2) |
 [Repl](https://repl.it/@neodigm) |
-[Twitter](https://twitter.com/neodigm24) |
+[Twitter](https://twitter.com/neodigm55) |
 [Keybase](https://keybase.io/neodigm) |
 [Docker](https://hub.docker.com/u/neodigm) |
 [W3C](https://www.w3.org/users/123844)
@@ -117,6 +117,6 @@ Read the Blog Post [Here](https://www.theScottKrause.com/)
 
 <p align="center">
   <a target="_blank" href="https://thescottkrause.com/d3_datavis_skills.html">
-  <img src="https://repository-images.githubusercontent.com/178555357/2b6ad880-7aa0-11ea-8dde-63e70187e3e9" title="D3js Skills with Audio">
+  <img src="https://repository-images.githubusercontent.com/178555357/2b6ad880-7aa0-11ea-8dde-63e70187e3e9" title="TypeScript D3js Skills with Audio">
   </a>
 </p>
