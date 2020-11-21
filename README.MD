@@ -5,7 +5,6 @@
   <img src="https://repository-images.githubusercontent.com/182188356/dc9b1680-2061-11eb-8a11-8833bfbfd6c2" title="Amazing Sensational Remarkable Revolutionary Startling Mind Blowing Interactive Type">
   </a>
 </p>
-<hr>
 
 ![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg)
 ![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg)
