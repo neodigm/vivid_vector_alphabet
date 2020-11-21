@@ -1,4 +1,5 @@
 "use strict"; // Vivid Vector Interactive Type Component
+let oD = document;
 let fViv =  ( ( _d, _g, sQ ) => {
 	let eSect = _d.querySelector( sQ );
 	let aMsg = [], eImg = {}, bRun = true;
@@ -42,13 +43,32 @@ let fViv =  ( ( _d, _g, sQ ) => {
 	};
 })( document, window, ".alpha-grd");
 
+let doFullScreen = (() =>{
+    let bFS = false;
+     return {
+        toggle : () => {
+            if( bFS ){
+                if (oD.exitFullscreen) oD.exitFullscreen();
+                playAudioFile( 2 );
+            }else{
+                var _dE = oD.documentElement;
+                if (_dE.requestFullscreen) _dE.requestFullscreen();
+                playAudioFile( 1 );
+            }
+            bFS = !bFS;
+        }
+     }
+ })();
+
 document.querySelector( ".alpha-grd" ).addEventListener("click", ( ev ) => {
 	fViv.stopVivid();
 	ev.currentTarget.classList.add("alpha-grd__hide");
+	doFullScreen.toggle();
 });
 document.querySelector( ".js-truth-bang" ).addEventListener("click", ( ev ) => {
 	fViv.startVivid();
 	document.querySelector( ".alpha-grd" ).classList.remove("alpha-grd__hide");
+	doFullScreen.toggle();
 });
 
 fViv.init("I produce interactive apps, websites, and persuasive video. I sculpt an articulate and indelible branded dialog. That brand is then made vivid and seamlessly integrated into every facet of the digital identity. The Story is told in a sublime blend of dynamic content and immersing imagery. With a passion for assimilating new technology and innovative problem solving, I approach projects with enthusiasm and focus. I listen. I interpret abstract business processes into actionable technical requirements. I excel at translating requirements into concise and well constructed applications. I create high fidelity prototypes allowing the user to interact with the app before it is developed. I can quickly test new designs and identify small flaws before they become big issues. I craft high fidelity prototypes and then build responsive, accessible, and aesthetically delightful interfaces. I produce and advocate for optimized, asynchronous, reactive, functional, testable, and future proof TypeScript and JavaScript. Revered for due diligence and attention to detail. I ignite and deliver enchanted user experiences. I design wireframes, prototypes, personas, microcopy, and user stories that drive team consensus. I am very good at this. Stakeholders trust me to develop a deeper understanding of the end user. I dont design systems that they want, people dont know what they want. I design applications that they need. I build solutions that learn and anticipate problems before they happen. I have a vast array of new emerging technology solutions just waiting for a problem to solve. Ive done incredible things with service workers and web assembly. I can make a web app work offline. I can make a web app behave like a native app. I can run a web app outside of the browser. I can communicate directly from a web app to an attached USB or Bluetooth device. I can run some of the most powerful encryption logic in the browser without JavaScript. I can make a web app fast, very fast.");
