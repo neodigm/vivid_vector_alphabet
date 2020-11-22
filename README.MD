@@ -108,9 +108,9 @@ Read the Blog Post [Here](https://www.theScottKrause.com/)
 [Machvive](https://machvive.com/) |
 [Arcanus 55](https://www.arcanus55.com/?trusted55=A55PV2) |
 [Repl](https://repl.it/@neodigm) |
-[Twitter](https://twitter.com/neodigm55) |
+[Twitter](https://twitter.com/neodigm24) |
 [Keybase](https://keybase.io/neodigm) |
-[Docker](https://hub.docker.com/u/neodigm) |
+[Medium](https://medium.com/@neo5ive/accessibility-%EF%B8%8F-ecommerce-552d4d35cd66) |
 [W3C](https://www.w3.org/users/123844)
 #
 
