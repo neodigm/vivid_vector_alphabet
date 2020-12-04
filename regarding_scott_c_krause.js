@@ -20,7 +20,7 @@
 "https://thescottkrause.com/d3_datavis_skills.html",
 "https://gist.github.com/neodigm",
 "https://www.npmjs.com/~neodigm",
-"https://www.linkedin.com/in/neodigm24/",
+"https://www.linkedin.com/in/neodigm55/",
 "https://trailblazer.me/id/skrause",
 "https://codepen.io/neodigm24",
 "https://machvive.com/",
