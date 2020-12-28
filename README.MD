@@ -6,42 +6,43 @@
   </a>
 </p>
 
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvf.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvj.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvk.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvm.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvp.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvq.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvv.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvw.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvx.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv0.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv1.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv2.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv3.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv4.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv5.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv6.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv7.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv8.svg)
-![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv9.svg)
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvf.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvj.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvk.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvm.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvp.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvq.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvv.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvw.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvx.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv0.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv1.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv2.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv3.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv4.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv5.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv6.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv7.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv8.svg" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv9.svg" alt="Vivid Vector Skulduggery">
+
 
 ```javascript
 "use strict"; // Vivid Vector Interactive Type Component
