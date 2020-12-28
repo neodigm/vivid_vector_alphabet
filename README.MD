@@ -32,6 +32,16 @@
 ![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvx.svg)
 ![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg)
 ![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg)
+![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv0.svg)
+![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv1.svg)
+![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv2.svg)
+![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv3.svg)
+![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv4.svg)
+![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv5.svg)
+![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv6.svg)
+![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv7.svg)
+![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv8.svg)
+![](https://neodigm.github.io/vivid_vector_alphabet/wasm/vv9.svg)
 
 ```javascript
 "use strict"; // Vivid Vector Interactive Type Component
