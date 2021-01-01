@@ -1,5 +1,9 @@
-[![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
----
+
+<p align="center">
+  <a target="_blank" href="https://neodigm.github.io/vivid_vector_alphabet/">
+  <img src="https://repository-images.githubusercontent.com/182188356/dc9b1680-2061-11eb-8a11-8833bfbfd6c2" title="Amazing ⚡ Sensational Remarkable Revolutionary Startling Mind Blowing Interactive Type" alt="Vivid Vector">
+  </a>
+</p>
 
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv0.svg" width="256" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv1.svg" width="256" alt="Vivid Vector Skulduggery">
