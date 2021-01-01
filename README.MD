@@ -5,7 +5,21 @@
   <img src="https://repository-images.githubusercontent.com/182188356/dc9b1680-2061-11eb-8a11-8833bfbfd6c2" title="Amazing ⚡ Sensational Remarkable Revolutionary Startling Mind Blowing Interactive Type" alt="Vivid Vector">
   </a>
 </p>
-
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv0.svg" width="256" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv1.svg" width="256" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv2.svg" width="256" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv3.svg" width="256" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv4.svg" width="256" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv5.svg" width="256" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv6.svg" width="256" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv7.svg" width="256" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv8.svg" width="256" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv9.svg" width="256" alt="Vivid Vector Skulduggery">
+---
+Pin it on Code Pen [Here](https://codepen.io/neodigm24)
+---
+Read the Blog Post [Here](https://www.theScottKrause.com/)
+---
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="256" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="256" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="256" alt="Vivid Vector Skulduggery">
@@ -32,21 +46,9 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvx.svg" width="256" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="256" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="256" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv0.svg" width="256" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv1.svg" width="256" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv2.svg" width="256" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv3.svg" width="256" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv4.svg" width="256" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv5.svg" width="256" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv6.svg" width="256" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv7.svg" width="256" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv8.svg" width="256" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv9.svg" width="256" alt="Vivid Vector Skulduggery">
-
-
 
 ```javascript
-"use strict"; // Vivid Vector Interactive Type Component
+// Vivid Vector Interactive Type Component 🍭
 let fViv =  ( ( _d, _g, sQ ) => {
 	let eSect = _d.querySelector( sQ );
 	let aMsg = [], eImg = {}, bRun = true;
@@ -103,11 +105,6 @@ fViv.init("I produce interactive apps, websites, and persuasive video.");
 console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "background: #000; color: #f4dc5e; font-size: 28px");
 ```
 
----
-Pin it on Code Pen [Here](https://codepen.io/neodigm24)
----
-Read the Blog Post [Here](https://www.theScottKrause.com/)
----
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
