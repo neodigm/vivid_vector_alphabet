@@ -6,7 +6,6 @@
 </p>
 
 <p>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv0.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv1.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv2.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv3.svg" width="108" alt="Vivid Vector Skulduggery">
@@ -16,13 +15,10 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv7.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv8.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv9.svg" width="108" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv0.svg" width="108" alt="Vivid Vector Skulduggery">
 </p>
 
-<p align="center">
-  <a target="_blank" href="https://neodigm.github.io/vivid_vector_alphabet/">
-  <img src="https://repository-images.githubusercontent.com/182188356/dc9b1680-2061-11eb-8a11-8833bfbfd6c2" title="Amazing ⚡ Sensational Remarkable Revolutionary Startling Mind Blowing Interactive Type" alt="Vivid Vector">
-  </a>
-</p>
+<hr>
 
 <p>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="108" alt="Vivid Vector Skulduggery">
