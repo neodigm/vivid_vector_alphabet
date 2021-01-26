@@ -61,12 +61,12 @@ let doFullScreen = (() =>{
  })();
 
 document.querySelector( ".alpha-grd" ).addEventListener("click", ( ev ) => {
-	fViv.stopVivid();
+	if( fViv ) fViv.stopVivid();
 	ev.currentTarget.classList.add("alpha-grd__hide");
 	doFullScreen.toggle();
 });
 document.querySelector( ".js-truth-bang" ).addEventListener("click", ( ev ) => {
-	fViv.startVivid();
+	if( fViv ) fViv.startVivid();
 	document.querySelector( ".alpha-grd" ).classList.remove("alpha-grd__hide");
 	doFullScreen.toggle();
 });
