@@ -107,6 +107,46 @@ fViv.init("I produce interactive apps, websites, and persuasive video.");
 console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "background: #000; color: #f4dc5e; font-size: 28px");
 ```
 
+<p align="center">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Renaissance Man Weaponeered Poetry">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="44" alt="Clockwork Clever Tricknology">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Vivid Vector indelible">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="44" alt="bloom with the fragrance of mischief">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Vivid Vector Preeminent">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="44" alt="A bare-knuckle bucket of does">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="44" alt="A meticulous merger of form and function.">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="44" alt="A technically superior interior wrapped in a sophisticated exterior.">
+<br>
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="44" alt="Batteries Included">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="44" alt="Best of breed">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="44" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="Budapest by Blimp">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="Clarity Versus Chaos">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Clever Clevorvoyant">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="Clockwork Clevor">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="44" alt="Vivid Vector Compel">
+<br>
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="Counter Clock Wise">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="44" alt="Design is content not garish">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="44" alt="Digital Alchemy">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Electrokinetic propulsion ion wind">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Electra Glide">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="safron and ginger">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="44" alt="stratagem tapestry">
+<br>
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="44" alt="Inventive">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="44" alt="Crave Breathtaking">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Feasible Impossibilities">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Evoked Potential">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="enigmatic doppelganger">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="vessel of quasi-religious longing">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="Fashion mag shoots">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="From Fad to Fundamental">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="44" alt="Houston we have an alternative">
+</p>
+
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
