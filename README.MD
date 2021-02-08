@@ -6,7 +6,7 @@
 </p>
 
 <p>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv1.svg" width="108" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv1.svg" width="108" alt="Vivid Vector Insight">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv2.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv3.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv4.svg" width="108" alt="Vivid Vector Skulduggery">
