@@ -45,7 +45,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvv.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvw.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvx.svg" width="108" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="108" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="108" alt="Clockwork Clever 🍭 Tricknology">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="108" alt="Vivid Vector Skulduggery">
 </p>
 
