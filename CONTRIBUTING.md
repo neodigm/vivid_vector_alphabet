@@ -30,11 +30,11 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 > If you want to ask a question, we assume that you have read the available [Documentation](https://github.com/neodigm/vivid_vector_alphabet/blob/gh-pages/README.MD).
 
-Before you ask a question, it is best to search for existing [Issues](https://github.com/neodigm/vivid_vector_alphabetissues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
+Before you ask a question, it is best to search for existing [Issues](https://github.com/neodigm/vivid_vector_alphabet/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
 If you then still feel the need to ask a question and need clarification, we recommend the following:
 
-- Open an [Issue](https://github.com/neodigm/vivid_vector_alphabetissues/new).
+- Open an [Issue](https://github.com/neodigm/vivid_vector_alphabet/issues/new).
 - Provide as much context as you can about what you're running into.
 - Provide project and platform versions (nodejs, npm, etc), depending on what seems relevant.
 
