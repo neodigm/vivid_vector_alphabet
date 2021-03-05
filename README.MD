@@ -1,7 +1,7 @@
 
 <p align="center">
   <a target="_blank" href="https://neodigm.github.io/vivid_vector_alphabet/">
-  <img src="https://repository-images.githubusercontent.com/182188356/dc9b1680-2061-11eb-8a11-8833bfbfd6c2" title="Amazing ⚡ Sensational Remarkable Revolutionary Startling Mind Blowing Interactive Type" alt="Vivid Vector">
+  <img src="https://repository-images.githubusercontent.com/182188356/dc9b1680-2061-11eb-8a11-8833bfbfd6c2" title="Amazing ⚡ Sensational Remarkable Revolutionary Startling Mind Blowing Interactive Type" alt="Vivid Vector One does what one must 🦄">
   </a>
 </p>
 
