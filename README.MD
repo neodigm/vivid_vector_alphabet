@@ -49,6 +49,8 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="108" alt="Vivid Vector Skulduggery">
 </p>
 
+[User Experience 🍭 Microinteractions](https://thescottkrause.com/categories/ux/)
+
 ```javascript
 // Vivid Vector Interactive Type Component 🍭
 let fViv =  ( ( _d, _g, sQ ) => {
