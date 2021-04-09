@@ -21,7 +21,7 @@
 <hr>
 
 <p>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="108" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="108" alt="Vivid Vector 🍭 glTF UV Mapping 👁️">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="108" alt="Vivid Vector Skulduggery">
