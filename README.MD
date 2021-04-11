@@ -164,7 +164,8 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 [Twitter](https://twitter.com/neodigm24) |
 [Keybase](https://keybase.io/neodigm) |
 [Medium](https://medium.com/@neo5ive/accessibility-%EF%B8%8F-ecommerce-552d4d35cd66) |
-[W3C](https://www.w3.org/users/123844)
+[W3C](https://www.w3.org/users/123844) |
+[InfoSec](https://arcanus55.medium.com/offline-vs-cloud-password-managers-51b1fbebe301)
 #
 
 <p align="center">
