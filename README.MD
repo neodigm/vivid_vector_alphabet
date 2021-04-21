@@ -144,7 +144,7 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Evoked Potential">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="enigmatic doppelganger">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="vessel of quasi-religious longing">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="Fashion mag shoots">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="🌑🌒🌓🌔🌕🌖🌗🌘🌑">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="From Fad to Fundamental">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="44" alt="Houston we have an alternative">
 </p>
