@@ -65,7 +65,7 @@ let fViv =  ( ( _d, _g, sQ ) => {
 				eImg.src = "vvspace.svg"; // while you're
 				eSect.appendChild( eImg ); // dancin
 			} // in the
-			setInterval( fViv.tick, 200);  // rain
+			setInterval( fViv.tick, 200);  // rain 🌑🌒🌓🌔🌕🌖🌗🌘🌑
 		},
 		tick: () =>{
 			if( bRun ){
