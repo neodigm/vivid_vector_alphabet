@@ -11,7 +11,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv3.svg" width="108" alt="✨ Blender Three.js 🍭 glTF UV Mapping 👁️">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv4.svg" width="108" alt="Vivid Vector 👁️ D3 Parallax Three.js Greensock && WebGL 🍭">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv5.svg" width="108" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv6.svg" width="108" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv6.svg" width="108" alt="Vivid Vector 🌑🌒🌓🌔🌕🌖🌗🌘🌑 ">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv7.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv8.svg" width="108" alt="Vivid Vector 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv9.svg" width="108" alt="Vivid Vector Skulduggery">
