@@ -15,7 +15,7 @@
     "url": "https://www.theScottKrause.com",
     "sameAs" : [ "https://github.com/neodigm",
 "https://www.theScottKrause.com/",
-"https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf",
+"https://www.thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf",
 "https://thescottkrause.com/tags/javascript/",
 "https://thescottkrause.com/tags/ux/",
 "https://thescottkrause.com/emerging_tech/ecommerce-accessibility-a11y/",
