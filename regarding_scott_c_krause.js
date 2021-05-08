@@ -18,7 +18,7 @@
 "https://www.thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf",
 "https://www.thescottkrause.com/tags/javascript/",
 "https://www.thescottkrause.com/tags/ux/",
-"https://thescottkrause.com/emerging_tech/ecommerce-accessibility-a11y/",
+"https://www.thescottkrause.com/emerging_tech/ecommerce-accessibility-a11y/",
 "https://thescottkrause.com/emerging_tech/gameification-threejs-webcrypto-accelerator-blender-gltf/",
 "https://arcanus55.medium.com/offline-vs-cloud-password-managers-51b1fbebe301",
 "https://arcanus55.medium.com/all-the-cool-cpas-encrypt-their-tax-files-e6172af2a46b",
