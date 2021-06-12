@@ -1,5 +1,5 @@
 "use strict"; // Vivid Vector Interactive Type Component
-let oD = document;
+let oD = document; //  UX artisan ⚡ illustrator ⚡ front-end engineer
 let fViv =  ( ( _d, _g, sQ ) => {
 	let eSect = _d.querySelector( sQ );
 	let aMsg = [], eImg = {}, bRun = true;
