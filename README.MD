@@ -173,3 +173,10 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
   <img src="https://repository-images.githubusercontent.com/178555357/2b6ad880-7aa0-11ea-8dde-63e70187e3e9" title="TypeScript D3js Skills with Audio">
   </a>
 </p>
+
+
+<p align="center">
+	<a target="_blank" href="https://www.thescottkrause.com">
+		<img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="✨ JavaScript && TypeScript && Go 🪐 Vue.js && TypeScript && Go  🍰">
+	</a>
+</p>
