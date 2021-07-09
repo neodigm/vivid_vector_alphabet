@@ -5,6 +5,8 @@
   </a>
 </p>
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/neodigm/vivid_vector_alphabet)
+
 <p>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv1.svg" width="108" alt="Vivid Vector Insight">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv2.svg" width="108" alt="Clockwork Clever 🍭 Tricknology">
