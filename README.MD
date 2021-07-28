@@ -177,6 +177,6 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 
 <p align="center">
 	<a target="_blank" href="https://www.thescottkrause.com">
-		<img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="Three.js 🚀 TypeScript 🍭 WASM">
+		<img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="Three.js 🚀 TypeScript 🍭 PWA | WASM">
 	</a>
 </p>
