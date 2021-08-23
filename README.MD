@@ -28,7 +28,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="108" alt="Vivid Vector ✨ JavaScript && TypeScript && Go 🪐">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvf.svg" width="108" alt="Vivid Vector Three.js 🚀 TypeScript 🍭 WASM ✨ Go">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="108" alt="Vivid Vector TypeScript ⚡ WASM ✨ NestJS">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="108" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="108" alt="Vivid Vector 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvj.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvk.svg" width="108" alt="Vivid Vector Skulduggery">
