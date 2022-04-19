@@ -154,6 +154,7 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2022.pdf) |
+[UX micro-library](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm555/) |
@@ -175,7 +176,6 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 	  </a>
 </p>
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/neodigm/vue_voyagers)
 <p align="center">
   <a target="_blank" href="https://www.thescottkrause.com">
     <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="TypeScript ⚡ WASM ✨ Vue.js">
