@@ -35,7 +35,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvm.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="108" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="108" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="108" alt="🏄 SQL⚡ ETL MDM ⚡ PL/SQL ORM">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvp.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvq.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="108" alt="Vivid Vector Skulduggery">
