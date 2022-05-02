@@ -155,6 +155,7 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2022.pdf) |
 [UX micro-library](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/) |
+[Neodigm UX Wiki]https://github.com/arcanus55/neodigm55/wiki/Cheat-Cheet) | 
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm555/) |
