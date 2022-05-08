@@ -134,7 +134,7 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="Counter Clock Wise">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="44" alt="Design is content not garish">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="44" alt="Digital Alchemy">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvz.svg" width="44" alt="Digital Alchemy ✨ Cypress && JavaScript && TypeScript">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Electrokinetic propulsion ion wind">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Electra Glide TypeScript ⚡ WASM ✨ NestJS">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="safron and ginger">
