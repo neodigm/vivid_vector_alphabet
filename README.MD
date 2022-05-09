@@ -140,7 +140,7 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="safron and ginger">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="44" alt="stratagem tapestry">
 <br>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="44" alt="Inventive DataVis 👁️ UX 🍭 PWA 👁️ ThreeJS">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="44" alt="Inventive DataVis 👁️ UX 🍭 PWA 👁️ ThreeJS Interactive Infographic">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvr.svg" width="44" alt="Crave Breathtaking">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Feasible Impossibilities TypeScript ⚡ WASM ✨ NestJS">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Evoked Potential TypeScript ⚡ WASM ✨ Vue.js">
