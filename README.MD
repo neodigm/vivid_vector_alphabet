@@ -173,12 +173,12 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 #
 <p align="center">
 	  <a target="_blank" href="https://thescottkrause.com/emerging_tech/cytoscape_dataviz_skills/">
-	  	<img src="https://repository-images.githubusercontent.com/178555357/2b6ad880-7aa0-11ea-8dde-63e70187e3e9" title="TypeScript D3js Skills with Audio TypeScript ⚡ WASM ✨ NestJS">
+	  	<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.webp" alt="TypeScript Interactive Infographic ⚡ WASM ✨ PWA">
 	  </a>
 </p>
 
 <p align="center">
   <a target="_blank" href="https://www.thescottkrause.com">
-    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="TypeScript ⚡ WASM ✨ Vue.js">
+    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js">
   </a>
 </p>
