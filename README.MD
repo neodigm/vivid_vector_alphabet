@@ -1,7 +1,7 @@
 
 <p align="center">
   <a target="_blank" href="https://neodigm.github.io/vivid_vector_alphabet/">
-  <img src="https://repository-images.githubusercontent.com/182188356/dc9b1680-2061-11eb-8a11-8833bfbfd6c2" title="Amazing ⚡ Sensational Remarkable Revolutionary Startling Mind Blowing Interactive Type" alt="Vivid Vector One does what one must 🦄 UX artisan ⚡ illustrator ⚡ front-end engineer">
+  <img src="https://repository-images.githubusercontent.com/182188356/dc9b1680-2061-11eb-8a11-8833bfbfd6c2" title="Amazing ⚡ Sensational Remarkable Revolutionary Startling Mind Blowing Interactive Type" alt="Vivid Vector 🦄 UX artisan ⚡ illustrator ⚡ front-end engineer">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="108" alt="Vivid Three.js 🚀 TypeScript 🍭 WASM ✨ Go>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="108" alt="Vivid Vector ✨ JavaScript && TypeScript && Go 🪐">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvf.svg" width="108" alt="Vivid Vector Three.js 🚀 TypeScript 🍭 WASM ✨ Go">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="108" alt="Vivid Vector TypeScript ⚡ WASM ✨ NestJS">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="108" alt="Vivid Vector TypeScript ⚡ WASM ✨ Vue 🪐">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="108" alt="Vivid Vector 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvj.svg" width="108" alt="Vivid Vector Skulduggery">
@@ -173,7 +173,7 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 #
 <p align="center">
 	  <a target="_blank" href="https://thescottkrause.com/emerging_tech/cytoscape_dataviz_skills/">
-	  	<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.webp" alt="TypeScript Interactive Infographic ⚡ WASM ✨ PWA">
+	  	<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.webp" alt="TypeScript UX 🪐 Interactive Infographic ⚡ WASM ✨ PWA">
 	  </a>
 </p>
 
