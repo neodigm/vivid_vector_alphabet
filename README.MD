@@ -29,7 +29,7 @@
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvf.svg" width="108" alt="Vivid Vector Three.js 🚀 TypeScript 🍭 WASM ✨ Go">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvg.svg" width="108" alt="Vivid Vector TypeScript ⚡ WASM ✨ Vue 🪐">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="108" alt="Vivid Vector 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="108" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="108" alt="Vivid ✨ Cypress && JavaScript && TypeScript && Vue.js 🪐 Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvj.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvk.svg" width="108" alt="Vivid Vector Skulduggery">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="108" alt="Vivid Vector Skulduggery">
@@ -162,23 +162,20 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 [Gists](https://gist.github.com/neodigm?direction=asc&sort=created) |
 [Salesforce](https://trailblazer.me/id/skrause) |
 [Code Pen](https://codepen.io/neodigm24) |
-[Machvive](https://machvive.com/) |
+[Machvive](https://www.machfivemarketing.com/accelerators/google_analytics_ga4_migration/) |
 [Arcanus 55](https://www.arcanus55.com/?trusted55=A55PV2) |
-[Repl](https://repl.it/@neodigm) |
-[Twitter](https://twitter.com/neodigm24) |
-[Keybase](https://keybase.io/neodigm) |
 [Medium](https://medium.com/@neo5ive/accessibility-%EF%B8%8F-ecommerce-552d4d35cd66) |
 [W3C](https://www.w3.org/users/123844) |
 [InfoSec](https://arcanus55.medium.com/offline-vs-cloud-password-managers-51b1fbebe301)
 #
 <p align="center">
-	  <a target="_blank" href="https://thescottkrause.com/emerging_tech/cytoscape_dataviz_skills/">
-	  	<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.webp" alt="TypeScript UX 🪐 Interactive Infographic ⚡ WASM ✨ PWA">
+	  <a target="_blank" href="https://www.thescottkrause.com/emerging_tech/cytoscape_dataviz_skills/">
+	  	<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.webp" alt="TypeScript UX 🪐 Interactive Infographic ⚡ WASM ✨ PWA 🍭 Svelte">
 	  </a>
 </p>
 
 <p align="center">
   <a target="_blank" href="https://www.thescottkrause.com">
-    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js">
+    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS">
   </a>
 </p>
