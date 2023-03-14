@@ -150,12 +150,12 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvn.svg" width="44" alt="From Fad to Fundamental">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="44" alt="Houston we have an alternative">
 </p>
-
 ---
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2023.pdf) |
 [UX micro-library](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/) |
+[PWA WASM](https://www.thescottkrause.com/emerging_tech/curated-pwa-links/) |
 [Neodigm UX Wiki](https://github.com/arcanus55/neodigm55/wiki/Cheat-Sheet) | 
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
@@ -180,3 +180,4 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
     <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS" alt="Interactive Infographic">
   </a>
 </p>
+
