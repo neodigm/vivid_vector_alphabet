@@ -153,7 +153,6 @@ console.log("%c Scott C. Krause ⚡ Problem Solver and Visual Storyteller", "bac
 														       
 ---
 														       
-#
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2023.pdf) |
 [UX micro-library](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/) |
