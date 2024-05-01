@@ -10,6 +10,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 > - Tweet about it
 > - Refer this project in your project's readme
 > - Mention the project at local meetups and tell your friends/colleagues
+> - [Cloudflare UX PWA SolidJS Lit ThreeJS Vue ✨ HTMX](https://www.thescottkrause.com/emerging_tech/neodigm55_ux_library/)
 
 <!-- omit in toc -->
 ## Table of Contents
